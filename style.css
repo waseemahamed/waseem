@@ -1,0 +1,30 @@
+.waseem
+{
+  font-size: 20px;
+}
+#waseem
+{
+  font-size: 25px;
+}
+img
+{
+  float: right;
+}
+.contact
+{
+  font-size: 100px;
+  font-style: italic;
+}
+.touch
+{
+  font-size: 22px;
+}
+body
+{
+  background: url("bg2.png") no-repeat center center fixed;
+  background-size: cover;
+}
+#contact
+{
+  font-size: 20px;
+}
